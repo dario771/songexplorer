@@ -1,0 +1,7 @@
+$Versione	3.3.4
+$Compressione	xz
+$Checksum	md5sum
+$Crypt	true
+$MsgGenerico	Questa versione sistema diversi bugs della precedente.
+$Obbligatorio	false
+#
